@@ -1,7 +1,7 @@
 # Kérdések
 ## **_CSS_**
 ## Mi a css?
-### 
+### csók puszi puszi 
 ## Hogyan tudunk beágyazni egy css-t egy html fájlba?
 ###
 ## Hogyan tudunk css stílust definiálni egyszerre több elemre? A következő kódrészletet hogyan egészítenéd ki, hogy minden elemnek legyen egy saját piros szaggatott kerete, és zöld háttérszíne? 
